@@ -8,7 +8,7 @@ Olá! Eu sou o Leonan-Barbosa!👋
 <div>
   <a href="https://beacons.ai/Leonan-Barbosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonan-Barbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonan-Barbosa&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonan-Barbosa&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
 ##
