@@ -1,9 +1,9 @@
 Olá! Eu sou o Leonan-Barbosa!👋
 
-- 🔭 Trabalho atualmente com Backend
-- 🌱 Estou estudando JavaScript
-- 📫 Contate-me pelo e-mail: leonan_nan@hotmail.com
-- 😄 Pronomes: Ele/Dele
+- 🔭 Trabalho atualmente com Backend;
+- 🌱 Estou estudando JavaScript e Python;
+- 📫 Contate-me pelo e-mail: leonan_nan@hotmail.com;
+- 😄 Pronomes: Ele/Dele.
 
 <div>
   <a href="https://beacons.ai/Leonan-Barbosa">
